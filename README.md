@@ -5,8 +5,7 @@ List of contents:
 
 1. Requirements
 2. How to play the game
-3. Classes:
-4. Bonus
+
 
 1.Requirements:
   
