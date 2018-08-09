@@ -30,7 +30,6 @@ List of contents:
 
   h) The player has only one life.
 
-  i) Run the run.py, run1.py, run2.py files using python3 to play levels 1,2 and 3 of the game respectively.(See bonus for multiple levels)
-		           
+  i) Run the run.py, run1.py, run2.py files using python3 to play levels 1,2 and 3 of the game respectively.       
 
 
